@@ -1,1 +1,1 @@
-This code is to classify various diseases of the leaves of several plants, using Convolutional Neural Networks, using transfer learning on the AlexNet model.
+This code is to classify various diseases of the leaves of several plants, using Convolutional Neural Networks, by using transfer learning on the AlexNet model.
